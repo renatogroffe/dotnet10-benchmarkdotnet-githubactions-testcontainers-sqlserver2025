@@ -13,7 +13,7 @@ env:
   Path_ArtifactsBenchmarking: './src/BenchmarkingDapperEFCoreCRMSqlServer/BenchmarkDotNet.Artifacts/results'
   ArtifactBenchmarkingHtml: 'BenchmarkingDapperEFCoreCRMSqlServer.Tests.CRMTests-report.html'
   ArtifactBenchmarkingMarkdown: 'BenchmarkingDapperEFCoreCRMSqlServer.Tests.CRMTests-report-github.md'
-  NoContatosPorCompanhia: '2'
+  NoContatosPorCompanhia: '15'
 
 jobs:
   benchmark:
